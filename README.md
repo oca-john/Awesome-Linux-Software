@@ -1,4 +1,4 @@
-# Awesome Linux Software
+# Awesome.Linux.Software-Oth
 
 ![Tux](img/tux.png)
 
